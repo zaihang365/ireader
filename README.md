@@ -19,7 +19,7 @@
     * [缓存更新策略](https://github.com/zaihang365/ireader/blob/master/README.md#缓存更新策略)
     * [数据一致性](https://github.com/zaihang365/ireader/blob/master/README.md#数据一致性)
 * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
-    [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
+    * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
 
 ## 操作系统
 

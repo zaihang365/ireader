@@ -4,6 +4,7 @@
 * [操作系统](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#操作系统)
     * [Linux](https://github.com/zaihang365/ireader/blob/master/README.md#linux)
 * [中间件](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#中间件)
+    * [mysql](https://github.com/zaihang365/ireader/blob/master/README.md#mysql)
     * [redis](https://github.com/zaihang365/ireader/blob/master/README.md#redis)
     * [zookeeper](https://github.com/zaihang365/ireader/blob/master/README.md#zookeeper)    
 * [网络协议](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#网络协议)
@@ -37,6 +38,9 @@
 3. [Redis 几个认识误区](https://timyang.net/data/redis-misunderstanding/)
 4. [Redis 高可用原理](https://www.codedump.info/post/20190409-redis-sentinel/)
 
+### mysql
+1. [基于左右值编码的树形数据库表结构设计](https://zhuanlan.zhihu.com/p/43896062)
+
 ### zookeeper
 1. [浅谈分布式服务协调技术 Zookeeper](http://www.linkedkeeper.com/detail/blog.action?bid=1014)
 
@@ -67,6 +71,7 @@
 9. [Go netpoll I/O 多路复用构建原生网络模型之源码深度解析 ](https://taohuawu.club/go-netpoll-io-multiplexing-reactor)
 10. [Let's Create a Simple Load Balancer With Go](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
 11. [理解 Go 的 reflect](https://juejin.im/post/5dc03c466fb9a04a9a08655e)
+12. [goreplay: 捕捉和重放 http 流量](https://github.com/buger/goreplay)
 
 ## 架构设计
 

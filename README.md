@@ -56,6 +56,7 @@
 1. [TCP 协议笔记](https://www.codedump.info/post/20190227-tcp/)
 2. [close_wait 导致问题](https://cloud.tencent.com/developer/article/1381359) 
 3. [Connection reset by peer](https://lua.ren/topic/tweyseo-connection-reset-by-peer/)
+4. [聊聊TCP连接池](https://studygolang.com/articles/2809)
 
 ## 开发语言
 

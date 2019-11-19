@@ -40,6 +40,7 @@
 
 ### mysql
 1. [基于左右值编码的树形数据库表结构设计](https://zhuanlan.zhihu.com/p/43896062)
+2. [什么是 B 树](https://mp.weixin.qq.com/s/wGqqSFpBnjpytw8J2Sniyw)
 
 ### zookeeper
 1. [浅谈分布式服务协调技术 Zookeeper](http://www.linkedkeeper.com/detail/blog.action?bid=1014)

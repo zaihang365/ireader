@@ -100,6 +100,7 @@
 3. [Leaf——美团点评分布式ID生成系统](https://tech.meituan.com/2017/04/21/mt-leaf.html)
 4. [Twitter-Snowflake 详解](https://www.lanindex.com/twitter-snowflake%EF%BC%8C64%E4%BD%8D%E8%87%AA%E5%A2%9Eid%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/)
 5. [分布式 ID 方案](http://www.cnblogs.com/haoxinyue/p/5208136.html)
+6. [微信序列号生成器架构设计](https://www.infoq.cn/article/wechat-serial-number-generator-architecture/)
 
 ### 分布式锁
 1. [redis 分布式锁的疑问](https://mp.weixin.qq.com/s/4CUe7OpM6y1kQRK8TOC_qQ?)

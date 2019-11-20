@@ -20,6 +20,7 @@
     * [分布式锁](https://github.com/zaihang365/ireader/blob/master/README.md#分布式锁)
     * [缓存更新策略](https://github.com/zaihang365/ireader/blob/master/README.md#缓存更新策略)
     * [数据一致性](https://github.com/zaihang365/ireader/blob/master/README.md#数据一致性)
+    * [数据一致性](https://github.com/zaihang365/ireader/blob/master/README.md#微服务)
 * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
     * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
 
@@ -48,6 +49,7 @@
 
 ### kafka
 1. [浅谈：消息可靠性、重复消息、消息积压、利用消息实现分布式事务](https://mp.weixin.qq.com/s/kgMvVmyRSdjuYGHmZA0Gvw)
+2. [Kafka needs no Keeper（关于KIP-500的讨论）](https://mp.weixin.qq.com/s/QIL2SzeQoRUWhjgzGvu-1Q)
 
 ## 网络协议
 
@@ -113,6 +115,7 @@
 ### 数据一致性
 1. [2PC之踵？是时候升级二阶段提交协议了](https://timyang.net/distributed/time-to-move-on-from-two-phase/)
 2. [分布式业务系统如何保证事务一致性](https://cloud.tencent.com/developer/article/1041507)
+3. [Raft 一致性协议算法](https://www.cnblogs.com/niejunlei/p/9719557.html)
 
 ### 微服务
 1. [Hystrix熔断器技术解析-HystrixCircuitBreaker](https://www.jianshu.com/p/14958039fd15) 

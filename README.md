@@ -7,6 +7,7 @@
     * [mysql](https://github.com/zaihang365/ireader/blob/master/README.md#mysql)
     * [redis](https://github.com/zaihang365/ireader/blob/master/README.md#redis)
     * [zookeeper](https://github.com/zaihang365/ireader/blob/master/README.md#zookeeper)    
+    * [kafka](https://github.com/zaihang365/ireader/blob/master/README.md#kafka)    
 * [网络协议](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#网络协议)
     * [TCP](https://github.com/zaihang365/ireader/blob/master/README.md#tcp/ip)
     * [HTTP](https://github.com/zaihang365/ireader/blob/master/README.md#http)
@@ -44,6 +45,9 @@
 
 ### zookeeper
 1. [浅谈分布式服务协调技术 Zookeeper](http://www.linkedkeeper.com/detail/blog.action?bid=1014)
+
+### kafka
+1. [浅谈：消息可靠性、重复消息、消息积压、利用消息实现分布式事务](https://mp.weixin.qq.com/s/kgMvVmyRSdjuYGHmZA0Gvw)
 
 ## 网络协议
 
@@ -109,6 +113,10 @@
 ### 数据一致性
 1. [2PC之踵？是时候升级二阶段提交协议了](https://timyang.net/distributed/time-to-move-on-from-two-phase/)
 2. [分布式业务系统如何保证事务一致性](https://cloud.tencent.com/developer/article/1041507)
+
+### 微服务
+1. [Hystrix熔断器技术解析-HystrixCircuitBreaker](https://www.jianshu.com/p/14958039fd15) 
+2. [微服务组件之限流器与熔断器](https://www.jianshu.com/p/03ca5beb4503?utm_campaign=studygolang.com&utm_medium=studygolang.com&utm_source=studygolang.com)
 
 ## 精选博客
 [酷壳](https://coolshell.cn/)  

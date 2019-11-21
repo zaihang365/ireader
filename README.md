@@ -20,7 +20,7 @@
     * [分布式锁](https://github.com/zaihang365/ireader/blob/master/README.md#分布式锁)
     * [缓存更新策略](https://github.com/zaihang365/ireader/blob/master/README.md#缓存更新策略)
     * [数据一致性](https://github.com/zaihang365/ireader/blob/master/README.md#数据一致性)
-    * [数据一致性](https://github.com/zaihang365/ireader/blob/master/README.md#微服务)
+    * [微服务](https://github.com/zaihang365/ireader/blob/master/README.md#微服务)
 * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
     * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
 
@@ -43,6 +43,7 @@
 ### mysql
 1. [基于左右值编码的树形数据库表结构设计](https://zhuanlan.zhihu.com/p/43896062)
 2. [什么是 B 树](https://mp.weixin.qq.com/s/wGqqSFpBnjpytw8J2Sniyw)
+3. [MySQL优化:为什么SQL走索引还那么慢？](https://www.jianshu.com/p/63ab2e3d2528)
 
 ### zookeeper
 1. [浅谈分布式服务协调技术 Zookeeper](http://www.linkedkeeper.com/detail/blog.action?bid=1014)
@@ -80,6 +81,7 @@
 10. [Let's Create a Simple Load Balancer With Go](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
 11. [理解 Go 的 reflect](https://juejin.im/post/5dc03c466fb9a04a9a08655e)
 12. [goreplay: 捕捉和重放 http 流量](https://github.com/buger/goreplay)
+13. [从Go开源项目BigCache学习加速并发访问和避免高额的GC开销](https://mp.weixin.qq.com/s/SLWj9Qph22cweHtnmh5QhQ)
 
 ## 架构设计
 
@@ -121,6 +123,7 @@
 ### 微服务
 1. [Hystrix熔断器技术解析-HystrixCircuitBreaker](https://www.jianshu.com/p/14958039fd15) 
 2. [微服务组件之限流器与熔断器](https://www.jianshu.com/p/03ca5beb4503?utm_campaign=studygolang.com&utm_medium=studygolang.com&utm_source=studygolang.com)
+3. [gRPC vs. REST: Performance Simplified](https://medium.com/@bimeshde/grpc-vs-rest-performance-simplified-fd35d01bbd4)
 
 ## 精选博客
 [酷壳](https://coolshell.cn/)  

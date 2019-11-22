@@ -7,7 +7,8 @@
     * [mysql](https://github.com/zaihang365/ireader/blob/master/README.md#mysql)
     * [redis](https://github.com/zaihang365/ireader/blob/master/README.md#redis)
     * [zookeeper](https://github.com/zaihang365/ireader/blob/master/README.md#zookeeper)    
-    * [kafka](https://github.com/zaihang365/ireader/blob/master/README.md#kafka)    
+    * [kafka](https://github.com/zaihang365/ireader/blob/master/README.md#kafka)  
+    * [flink](https://github.com/zaihang365/ireader/blob/master/README.md#flink)    
 * [网络协议](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#网络协议)
     * [TCP](https://github.com/zaihang365/ireader/blob/master/README.md#tcp/ip)
     * [HTTP](https://github.com/zaihang365/ireader/blob/master/README.md#http)
@@ -51,6 +52,9 @@
 ### kafka
 1. [浅谈：消息可靠性、重复消息、消息积压、利用消息实现分布式事务](https://mp.weixin.qq.com/s/kgMvVmyRSdjuYGHmZA0Gvw)
 2. [Kafka needs no Keeper（关于KIP-500的讨论）](https://mp.weixin.qq.com/s/QIL2SzeQoRUWhjgzGvu-1Q)
+
+### flink
+1. [阿里巴巴为什么选择Apache Flink？](https://segmentfault.com/a/1190000016712706)
 
 ## 网络协议
 

@@ -20,7 +20,7 @@
     * [发号器](https://github.com/zaihang365/ireader/blob/master/README.md#发号器)
     * [分布式锁](https://github.com/zaihang365/ireader/blob/master/README.md#分布式锁)
     * [缓存更新策略](https://github.com/zaihang365/ireader/blob/master/README.md#缓存更新策略)
-    * [数据一致性](https://github.com/zaihang365/ireader/blob/master/README.md#数据一致性)
+    * [分布式基础](https://github.com/zaihang365/ireader/blob/master/README.md#分布式基础)
     * [微服务](https://github.com/zaihang365/ireader/blob/master/README.md#微服务)
 * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
     * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
@@ -119,10 +119,12 @@
 ### 缓存更新策略
 1. [缓存更新策略](https://juejin.im/post/5af5b2c36fb9a07ac65318bd)
 
-### 数据一致性
-1. [2PC之踵？是时候升级二阶段提交协议了](https://timyang.net/distributed/time-to-move-on-from-two-phase/)
-2. [分布式业务系统如何保证事务一致性](https://cloud.tencent.com/developer/article/1041507)
-3. [Raft 一致性协议算法](https://www.cnblogs.com/niejunlei/p/9719557.html)
+### 分布式基础
+1. [什么是分布式？](http://book.mixu.net/distsys/single-page.html)
+2. [2PC之踵？是时候升级二阶段提交协议了](https://timyang.net/distributed/time-to-move-on-from-two-phase/)
+3. [分布式业务系统如何保证事务一致性](https://cloud.tencent.com/developer/article/1041507)
+4. [Raft 一致性协议算法](https://www.cnblogs.com/niejunlei/p/9719557.html)
+5. [微软出品：系统的设计模式24篇](https://docs.microsoft.com/zh-cn/previous-versions/msp-n-p/dn600223(v=pandp.10))
 
 ### 微服务
 1. [Hystrix熔断器技术解析-HystrixCircuitBreaker](https://www.jianshu.com/p/14958039fd15) 

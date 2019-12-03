@@ -138,3 +138,4 @@
 [喵叔](https://blog.betacat.io/)  
 [TimYang](https://timyang.net/architecture/consistent-hashing-practice/)  
 [tonybai](https://tonybai.com/articles/)  
+[潘剑锋](https://taohuawu.club/)

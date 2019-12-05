@@ -86,6 +86,7 @@
 11. [理解 Go 的 reflect](https://juejin.im/post/5dc03c466fb9a04a9a08655e)
 12. [goreplay: 捕捉和重放 http 流量](https://github.com/buger/goreplay)
 13. [从Go开源项目BigCache学习加速并发访问和避免高额的GC开销](https://mp.weixin.qq.com/s/SLWj9Qph22cweHtnmh5QhQ)
+14. [worker pool 优雅关闭](https://callistaenterprise.se/blogg/teknik/2019/10/05/go-worker-cancellation/)
 
 ## 架构设计
 
@@ -125,6 +126,7 @@
 3. [分布式业务系统如何保证事务一致性](https://cloud.tencent.com/developer/article/1041507)
 4. [Raft 一致性协议算法](https://www.cnblogs.com/niejunlei/p/9719557.html)
 5. [微软出品：系统的设计模式24篇](https://docs.microsoft.com/zh-cn/previous-versions/msp-n-p/dn600223(v=pandp.10))
+6. [微软出品：系统的设计模式24篇 中文翻译](https://sapphirewriter.gitbooks.io/cloud-design-patterns/content/)
 
 ### 微服务
 1. [Hystrix熔断器技术解析-HystrixCircuitBreaker](https://www.jianshu.com/p/14958039fd15) 

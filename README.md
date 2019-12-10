@@ -131,6 +131,9 @@
 2. [微服务组件之限流器与熔断器](https://www.jianshu.com/p/03ca5beb4503?utm_campaign=studygolang.com&utm_medium=studygolang.com&utm_source=studygolang.com)
 3. [gRPC vs. REST: Performance Simplified](https://medium.com/@bimeshde/grpc-vs-rest-performance-simplified-fd35d01bbd4)
 4. [API网关在微服务架构中的应用](https://mp.weixin.qq.com/s/GuP12En8AvLSlS9jjEhtAw)
+5. [中台战略全解读（一）：中台的发展与进化](https://www.infoq.cn/article/7z0JSGIIxFydDYS5tWfO)
+6. [中台战略全解读（二）：人员能力要求](https://www.infoq.cn/article/aImizSoZdUP7U7iPrTik)
+7. [中台战略全解读（三）：业务中台建设](https://www.infoq.cn/article/AJUmUIo2DvQZYzZi2VLc)
 
 ## 精选博客
 [酷壳](https://coolshell.cn/)  

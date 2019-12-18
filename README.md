@@ -137,6 +137,8 @@
 6. [中台战略全解读（二）：人员能力要求](https://www.infoq.cn/article/aImizSoZdUP7U7iPrTik)
 7. [中台战略全解读（三）：业务中台建设](https://www.infoq.cn/article/AJUmUIo2DvQZYzZi2VLc)
 
+### 服务治理
+
 ## 精选博客
 [酷壳](https://coolshell.cn/)  
 [鸟窝](https://colobu.com/)  
@@ -144,3 +146,4 @@
 [TimYang](https://timyang.net/architecture/consistent-hashing-practice/)  
 [tonybai](https://tonybai.com/articles/)  
 [潘剑锋](https://taohuawu.club/)
+[敖小剑 服务治理方面](https://skyao.io/#about)

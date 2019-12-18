@@ -22,6 +22,7 @@
     * [缓存更新策略](https://github.com/zaihang365/ireader/blob/master/README.md#缓存更新策略)
     * [分布式基础](https://github.com/zaihang365/ireader/blob/master/README.md#分布式基础)
     * [微服务](https://github.com/zaihang365/ireader/blob/master/README.md#微服务)
+    * [服务治理](https://github.com/zaihang365/ireader/blob/master/README.md#服务治理)
 * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
     * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
 

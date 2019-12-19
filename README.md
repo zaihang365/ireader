@@ -23,6 +23,8 @@
     * [分布式基础](https://github.com/zaihang365/ireader/blob/master/README.md#分布式基础)
     * [微服务](https://github.com/zaihang365/ireader/blob/master/README.md#微服务)
     * [服务治理](https://github.com/zaihang365/ireader/blob/master/README.md#服务治理)
+* [代码风格与设计](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#代码风格与设计)
+    * [代码风格与设计](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#代码风格与设计)
 * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
     * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
 
@@ -41,6 +43,7 @@
 2. [如何阅读 Redis 源码？](http://blog.huangz.me/diary/2014/how-to-read-redis-source-code.html)
 3. [Redis 几个认识误区](https://timyang.net/data/redis-misunderstanding/)
 4. [Redis 高可用原理](https://www.codedump.info/post/20190409-redis-sentinel/)
+5. [Redis 分布式锁探究 -redLock原理](https://redis.io/topics/distlock?from=timeline)
 
 ### mysql
 1. [基于左右值编码的树形数据库表结构设计](https://zhuanlan.zhihu.com/p/43896062)
@@ -88,6 +91,8 @@
 12. [goreplay: 捕捉和重放 http 流量](https://github.com/buger/goreplay)
 13. [从Go开源项目BigCache学习加速并发访问和避免高额的GC开销](https://mp.weixin.qq.com/s/SLWj9Qph22cweHtnmh5QhQ)
 14. [worker pool 优雅关闭](https://callistaenterprise.se/blogg/teknik/2019/10/05/go-worker-cancellation/)
+15. [Golang开发支持平滑升级（优雅重启）的HTTP服务](https://mp.weixin.qq.com/s?src=3&timestamp=1576488692&ver=1&signature=xPSye3v7miF7aVeLHb*6ZbJfWAx9xy2kN1w156ZDMXWi5HKSaZPLr9ljo-D70RjejkLxn6NsNYCGc5PKE01kqip2rnP6iSEQ7brJ2XOToiCF8jQEd7mjTmMrVodPqhG3yAZoHFrgF6MroAxcEJb7BA4zmTI8iqIWOfwmCYWwsLw=)
+16. [golang 服务平滑重启小结](https://mp.weixin.qq.com/s?src=11&timestamp=1576488695&ver=2038&signature=5jG*co4HV9rBRXtlzVkr-31YWahtL5tAVOca-LQd*mbExpJoVQ90TdBcqOIKpD7Ul3sjVW8vvRyk9Kb6nc*bkUN3Tjw8GqJ6Lcl3caHxQsOu3IGBwrF6FBzGcJ5m33uQ&new=1)
 
 ## 架构设计
 
@@ -137,11 +142,16 @@
 5. [中台战略全解读（一）：中台的发展与进化](https://www.infoq.cn/article/7z0JSGIIxFydDYS5tWfO)
 6. [中台战略全解读（二）：人员能力要求](https://www.infoq.cn/article/aImizSoZdUP7U7iPrTik)
 7. [中台战略全解读（三）：业务中台建设](https://www.infoq.cn/article/AJUmUIo2DvQZYzZi2VLc)
+8. [大厂中台架构](https://mp.weixin.qq.com/s/BUuT_Ya8N7reKEoX_pNFpg)
 
 ### 服务治理
 1. [服务网格新生代-Istio](https://skyao.io/talk/201709-istio-introduction/)
 2. [Service Mesh架构反思：数据平面和控制平面的界线该如何划定？](https://skyao.io/post/201804-servicemesh-architecture-introspection/)
 
+## 代码风格与设计
+
+### 代码风格与设计
+1. [如何实现复杂的业务代码](https://mp.weixin.qq.com/s/wP6JBKBNAhNzu6MqbUMYTQ)
 
 ## 精选博客
 [酷壳](https://coolshell.cn/)  

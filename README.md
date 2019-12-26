@@ -111,6 +111,7 @@
 8. [微博分布式存储作业实现方法](https://timyang.net/architecture/feed-sharding-practice/)
 9. [超长列表翻页方案](https://timyang.net/data/key-list-pagination-ii/)
 10. [权限系统设计](https://www.cnblogs.com/iceblow/p/11121362.html)
+11. [从无到有：微信后台系统的演进之路](https://www.infoq.cn/article/the-road-of-the-growth-weixin-background/)
 
 ### 发号器
 1. [mysql 实现发号器](https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/)
@@ -164,5 +165,6 @@
 [喵叔](https://blog.betacat.io/)  
 [TimYang](https://timyang.net/architecture/consistent-hashing-practice/)  
 [tonybai](https://tonybai.com/articles/)  
-[潘剑锋](https://taohuawu.club/)
-[敖小剑 服务治理方面](https://skyao.io/#about)
+[潘剑锋](https://taohuawu.club/)  
+[敖小剑 服务治理方面](https://skyao.io/#about)  
+[于雨 基础中间价解析](http://alexstocks.github.io/)  

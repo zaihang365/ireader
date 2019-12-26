@@ -94,6 +94,10 @@
 15. [Golang开发支持平滑升级（优雅重启）的HTTP服务](https://mp.weixin.qq.com/s?src=3&timestamp=1576488692&ver=1&signature=xPSye3v7miF7aVeLHb*6ZbJfWAx9xy2kN1w156ZDMXWi5HKSaZPLr9ljo-D70RjejkLxn6NsNYCGc5PKE01kqip2rnP6iSEQ7brJ2XOToiCF8jQEd7mjTmMrVodPqhG3yAZoHFrgF6MroAxcEJb7BA4zmTI8iqIWOfwmCYWwsLw=)
 16. [golang 服务平滑重启小结](https://mp.weixin.qq.com/s?src=11&timestamp=1576488695&ver=2038&signature=5jG*co4HV9rBRXtlzVkr-31YWahtL5tAVOca-LQd*mbExpJoVQ90TdBcqOIKpD7Ul3sjVW8vvRyk9Kb6nc*bkUN3Tjw8GqJ6Lcl3caHxQsOu3IGBwrF6FBzGcJ5m33uQ&new=1)
 
+#### golang 工具包
+##### trace/log
+1. [eris](https://github.com/rotisserie/eris)
+
 ## 架构设计
 
 ### 系统设计
@@ -106,6 +110,7 @@
 7. [Go 语言构建Oauth2服务](https://juejin.im/post/5c77639a5188251fd46eea45)
 8. [微博分布式存储作业实现方法](https://timyang.net/architecture/feed-sharding-practice/)
 9. [超长列表翻页方案](https://timyang.net/data/key-list-pagination-ii/)
+10. [权限系统设计](https://www.cnblogs.com/iceblow/p/11121362.html)
 
 ### 发号器
 1. [mysql 实现发号器](https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/)

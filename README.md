@@ -23,8 +23,10 @@
     * [分布式基础](https://github.com/zaihang365/ireader/blob/master/README.md#分布式基础)
     * [微服务](https://github.com/zaihang365/ireader/blob/master/README.md#微服务)
     * [服务治理](https://github.com/zaihang365/ireader/blob/master/README.md#服务治理)
-* [代码风格与设计](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#代码风格与设计)
+    * [无服务](https://github.com/zaihang365/ireader/blob/master/README.md#无服务)
+* [工程化](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#工程化)
     * [代码风格与设计](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#代码风格与设计)
+    * [代码测试](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#代码测试)
 * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
     * [精选博客](https://github.com/zaihang365/ireader/blob/master/README.md#README.md#精选博客)
 
@@ -158,17 +160,25 @@
 1. [服务网格新生代-Istio](https://skyao.io/talk/201709-istio-introduction/)
 2. [Service Mesh架构反思：数据平面和控制平面的界线该如何划定？](https://skyao.io/post/201804-servicemesh-architecture-introspection/)
 
-## 代码风格与设计
+## 工程化
 
 ### 代码风格与设计
 1. [如何实现复杂的业务代码](https://mp.weixin.qq.com/s/wP6JBKBNAhNzu6MqbUMYTQ)
 
+### 代码测试
+
+1. [如何做接口自动化测试](https://testerhome.com/topics/11051)
+2. [Lego-美团接口自动化测试实践](https://tech.meituan.com/2018/01/09/lego-api-test.html)
+
 ## 精选博客
-[酷壳](https://coolshell.cn/)  
-[鸟窝](https://colobu.com/)  
-[喵叔](https://blog.betacat.io/)  
-[TimYang](https://timyang.net/architecture/consistent-hashing-practice/)  
-[tonybai](https://tonybai.com/articles/)  
-[潘剑锋](https://taohuawu.club/)  
-[敖小剑 服务治理方面](https://skyao.io/#about)  
-[于雨 基础中间价解析](http://alexstocks.github.io/)  
+
+排名不分先后，仅体现加入顺序
+
+1. [酷壳 综合](https://coolshell.cn/)
+2. [鸟窝 综合](https://colobu.com/)
+3. [喵叔 综合](https://blog.betacat.io/)
+4. [TimYang 综合](https://timyang.net/architecture/consistent-hashing-practice/)
+5. [tonybai golang&k8s](https://tonybai.com/articles/)
+6. [潘剑锋 golang](https://taohuawu.club/)
+7. [敖小剑 服务治理](https://skyao.io/#about)
+8. [于雨 Dubbo PMC](http://alexstocks.github.io/)  

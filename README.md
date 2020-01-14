@@ -96,6 +96,7 @@
 15. [Golang开发支持平滑升级（优雅重启）的HTTP服务](https://mp.weixin.qq.com/s?src=3&timestamp=1576488692&ver=1&signature=xPSye3v7miF7aVeLHb*6ZbJfWAx9xy2kN1w156ZDMXWi5HKSaZPLr9ljo-D70RjejkLxn6NsNYCGc5PKE01kqip2rnP6iSEQ7brJ2XOToiCF8jQEd7mjTmMrVodPqhG3yAZoHFrgF6MroAxcEJb7BA4zmTI8iqIWOfwmCYWwsLw=)
 16. [golang 服务平滑重启小结](https://mp.weixin.qq.com/s?src=11&timestamp=1576488695&ver=2038&signature=5jG*co4HV9rBRXtlzVkr-31YWahtL5tAVOca-LQd*mbExpJoVQ90TdBcqOIKpD7Ul3sjVW8vvRyk9Kb6nc*bkUN3Tjw8GqJ6Lcl3caHxQsOu3IGBwrF6FBzGcJ5m33uQ&new=1)
 17. [Go 内存分配器可视化指南](https://github.com/coldnight/go-memory-allocator-visual-guide)
+18. [2019年 Go 读者点击最多的十篇文章](https://colobu.com/2020/01/07/Top-Go-Links-of-2019/)
 
 #### golang 工具包
 ##### trace/log

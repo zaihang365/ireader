@@ -101,6 +101,7 @@
 #### golang 工具包
 ##### trace/log
 1. [eris](https://github.com/rotisserie/eris)
+2. [权限框架 casbin](https://mp.weixin.qq.com/s/B2FCMuBt0RvjLhkI3Fv60A)
 
 ## 架构设计
 
@@ -116,6 +117,7 @@
 9. [超长列表翻页方案](https://timyang.net/data/key-list-pagination-ii/)
 10. [权限系统设计](https://www.cnblogs.com/iceblow/p/11121362.html)
 11. [从无到有：微信后台系统的演进之路](https://www.infoq.cn/article/the-road-of-the-growth-weixin-background/)
+12. [如何做在线数据迁移](https://lzjohnny.github.io/2019/04/01/database-migration/)
 
 ### 发号器
 1. [mysql 实现发号器](https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/)
